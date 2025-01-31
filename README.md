@@ -14,6 +14,3 @@ I am Somika Arya, a passionate Data Analyst/Scientist with a strong proficiency 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SomikaArya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
