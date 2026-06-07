@@ -1,5 +1,43 @@
-# 💫 About Me:
-I am Somika Arya, a passionate Data Analyst/Scientist with a strong proficiency in Python, Power BI, Advanced Excel, and MySQL. <br>I excel at managing large datasets, building interactive dashboards, and developing data-driven strategies that enhance decision-making and operational efficiency. Through hands-on experience with industry-focused simulations, including Tata Data Visualization, JPMorgan Chase & Co. Quantitative Research and Quantium Data Analytics Job Simulations on Forage, I have refined my skills in data preparation, customer analytics, and commercial insights. I have worked on real-world datasets, transforming raw data into actionable business recommendations that drive strategic growth. <br>With a keen eye for precision and innovation, I harness the power of advanced analytics to uncover hidden patterns and drive strategic success. Committed to continuous learning, I stay ahead of emerging tools and methodologies, ensuring every solution I deliver is cutting-edge and impactful. <br><br>🔧 Technologies & Tools:<br>Languages: Python, SQL(MySQL)<br>Data Visualization: Power BI, Excel, Spyder, Jupiter<br>Databases: MySQL<br>Others: Advanced Excel for data analysis
+# 👋 About Me:
+I'm Somika Arya — a passionate Data Analyst & Scientist who transforms raw data into decisions that matter. <br>With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I specialize in building end-to-end data pipelines, interactive dashboards, and analytical frameworks that drive real business impact. I thrive at the intersection of data, strategy, and storytelling — turning complex datasets into clear, actionable insights.<br>
+---
+
+## 🚀 What I Do
+
+- 📊 **Data Analysis & Visualization** — Designing compelling Power BI dashboards and Excel models that make data speak
+- 🧠 **Customer & Commercial Analytics** — Segmentation, behavioral analysis, and data-driven strategy formulation
+- 🛠️ **Data Preparation & Engineering** — Cleaning, transforming, and structuring large datasets for meaningful analysis
+- 📈 **Predictive Insights** — Uncovering hidden patterns to inform strategic decisions
+
+---
+
+## 🏆 Industry Experience
+
+Hands-on exposure through industry simulations with global leaders:
+- 🔵 **Tata** — Data Visualization & Storytelling
+- 🟡 **JPMorgan Chase & Co.** — Quantitative Research
+- 🟢 **Quantium** — Data Analytics & Commercial Insights
+
+---
+
+## 🔧 Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL (MySQL) |
+| **Visualization** | Power BI, Advanced Excel, Jupyter, Spyder |
+| **Databases** | MySQL |
+| **Analytics** | Statistical Analysis, Customer Segmentation, Dashboard Design |
+
+---
+
+## 🌱 Always Learning
+
+I'm committed to staying ahead of emerging tools and methodologies — because in data, standing still means falling behind. Every project I take on is an opportunity to build something smarter, sharper, and more impactful.
+
+---
+
+> *"Data is not just numbers — it's the story of what happened and the blueprint for what's next."*
 
 
 ## 🌐 Socials:
