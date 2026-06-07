@@ -1,6 +1,8 @@
-# 👋 About Me:
-I'm Somika Arya — a passionate Data Analyst & Scientist who transforms raw data into decisions that matter. <br>With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I specialize in building end-to-end data pipelines, interactive dashboards, and analytical frameworks that drive real business impact. I thrive at the intersection of data, strategy, and storytelling — turning complex datasets into clear, actionable insights.<br>
----
+# 👋 About Me
+
+I'm Somika Arya — a passionate Data Analyst or Business Analyst who transforms raw data into decisions that matter.
+
+With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I specialize in building end-to-end data pipelines, interactive dashboards, and analytical frameworks that drive real business impact. I thrive at the intersection of data, strategy, and storytelling — turning complex datasets into clear, actionable insights.
 
 ## 🚀 What I Do
 
@@ -9,14 +11,22 @@ I'm Somika Arya — a passionate Data Analyst & Scientist who transforms raw dat
 - 🛠️ **Data Preparation & Engineering** — Cleaning, transforming, and structuring large datasets for meaningful analysis
 - 📈 **Predictive Insights** — Uncovering hidden patterns to inform strategic decisions
 
----
+## 🏆 Featured Projects
 
-## 🏆 Industry Experience
+**🚇 Optimizing Metro Operations Using Passenger Flow Analytics**
+Designed a data-driven framework for real-time metro scheduling optimization — delivering actionable strategies that enhanced service efficiency and operational decision-making.
 
-Hands-on exposure through industry simulations with global leaders:
+**🎬 Netflix Content Distribution Strategy Analysis**
+Revealed that shows outperform movies in viewership, Fridays are the optimal release day, and peak engagement occurs in December, June, and Fall — enabling data-backed content strategy decisions.
+
+## 📜 Certifications
+
+- 🏅 **IBM Business Intelligence (BI) Analyst** — Coursera *(Jun 2026)*
+- 🛰️ **Remote Sensing Data Analytics in Crop Production Forecasting** — ISRO *(Jul 2025)*
 - 🔵 **Tata** — Data Visualization & Storytelling
 - 🟡 **JPMorgan Chase & Co.** — Quantitative Research
 - 🟢 **Quantium** — Data Analytics & Commercial Insights
+- 📚 12+ Licenses & Certifications
 
 ---
 
@@ -29,13 +39,11 @@ Hands-on exposure through industry simulations with global leaders:
 | **Databases** | MySQL |
 | **Analytics** | Statistical Analysis, Customer Segmentation, Dashboard Design |
 
----
 
 ## 🌱 Always Learning
 
 I'm committed to staying ahead of emerging tools and methodologies — because in data, standing still means falling behind. Every project I take on is an opportunity to build something smarter, sharper, and more impactful.
 
----
 
 > *"Data is not just numbers — it's the story of what happened and the blueprint for what's next."*
 
