@@ -1,8 +1,9 @@
-# 👋 About Me
+## 👋 About Me
 
 I'm Somika Arya — a passionate Data Analyst or Business Analyst who transforms raw data into decisions that matter.
 
 With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I specialize in building end-to-end data pipelines, interactive dashboards, and analytical frameworks that drive real business impact. I thrive at the intersection of data, strategy, and storytelling — turning complex datasets into clear, actionable insights.
+
 
 ## 🚀 What I Do
 
@@ -10,14 +11,17 @@ With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I sp
 - 🧠 **Customer & Commercial Analytics** — Segmentation, behavioral analysis, and data-driven strategy formulation
 - 🛠️ **Data Preparation & Engineering** — Cleaning, transforming, and structuring large datasets for meaningful analysis
 - 📈 **Predictive Insights** — Uncovering hidden patterns to inform strategic decisions
+  
 
 ## 🏆 Featured Projects
 
 **🚇 Optimizing Metro Operations Using Passenger Flow Analytics**
 Designed a data-driven framework for real-time metro scheduling optimization — delivering actionable strategies that enhanced service efficiency and operational decision-making.
 
+
 **🎬 Netflix Content Distribution Strategy Analysis**
 Revealed that shows outperform movies in viewership, Fridays are the optimal release day, and peak engagement occurs in December, June, and Fall — enabling data-backed content strategy decisions.
+
 
 ## 📜 Certifications
 
@@ -28,7 +32,6 @@ Revealed that shows outperform movies in viewership, Fridays are the optimal rel
 - 🟢 **Quantium** — Data Analytics & Commercial Insights
 - 📚 12+ Licenses & Certifications
 
----
 
 ## 🔧 Tech Stack
 
