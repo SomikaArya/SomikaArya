@@ -45,10 +45,10 @@ Revealed that shows outperform movies in viewership, Fridays are the optimal rel
 
 ## 🌱 Always Learning
 
-I'm committed to staying ahead of emerging tools and methodologies — because in data, standing still means falling behind. Every project I take on is an opportunity to build something smarter, sharper, and more impactful.
+I'm committed to staying ahead of emerging tools and methodologies - because in data, standing still means falling behind. Every project I take on is an opportunity to build something smarter, sharper, and more impactful.
 
 
-> *"Data is not just numbers — it's the story of what happened and the blueprint for what's next."*
+> *"Data is not just numbers - it's the story of what happened and the blueprint for what's next."*
 
 
 ## 🌐 Socials:
