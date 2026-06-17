@@ -11,16 +11,6 @@ With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I sp
 - 🧠 **Customer & Commercial Analytics** - Segmentation, behavioral analysis, and data-driven strategy formulation
 - 🛠️ **Data Preparation & Engineering** - Cleaning, transforming, and structuring large datasets for meaningful analysis
 - 📈 **Predictive Insights** - Uncovering hidden patterns to inform strategic decisions
-  
-
-## 🏆 Featured Projects
-
-**🚇 Optimizing Metro Operations Using Passenger Flow Analytics**
-Designed a data-driven framework for real-time metro scheduling optimization — delivering actionable strategies that enhanced service efficiency and operational decision-making.
-
-
-**🎬 Netflix Content Distribution Strategy Analysis**
-Revealed that shows outperform movies in viewership, Fridays are the optimal release day, and peak engagement occurs in December, June, and Fall — enabling data-backed content strategy decisions.
 
 
 ## 📜 Certifications
