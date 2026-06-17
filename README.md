@@ -28,7 +28,7 @@ With strong expertise in Python, SQL (MySQL), Power BI, and Advanced Excel, I sp
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL (MySQL) |
-| **Visualization** | Power BI, Advanced Excel, Jupyter, Spyder |
+| **Visualization** | Power BI, Tableau, Advanced Excel, Jupyter, Spyder |
 | **Databases** | MySQL |
 | **Analytics** | Statistical Analysis, Customer Segmentation, Dashboard Design |
 
